@@ -1,3 +1,5 @@
+//CAR STORE MANAGEMENT SYSTEM - using Doubly Ended Queue (Deque)
+
 //using DEQUE
 #include <stdio.h>
 #include <stdlib.h>
